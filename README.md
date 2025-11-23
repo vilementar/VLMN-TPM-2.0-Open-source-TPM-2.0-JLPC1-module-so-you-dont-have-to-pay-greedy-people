@@ -1,2 +1,6 @@
 # vilementar-VLMN-TPM-2.0-Open-source-TPM-2.0-JLPC1-module-so-you-dont-have-to-pay-greedy-people
-Open‑source TPM 2.0 JLPC1 module for X99/LGA2011‑3. I share the schematic so you can learn KiCad and build it yourself. Modules also available for 65 PLN with shipping via Vinted, other platforms, or direct carrier. Price negotiable, already very low.
+VLMN TPM 2.0 – Open‑source JLPC1 module
+
+The schematic is open‑source, but I’m publishing only the design because I want people to actually learn something from it (KiCad isn’t hard!).
+
+At the same time, I also offer ready‑made modules for 65 PLN, with shipping from Poland via Vinted, other platforms, or directly through a carrier. The price is negotiable, but in my opinion it’s already very low.
